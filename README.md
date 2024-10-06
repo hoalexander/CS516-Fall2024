@@ -2,3 +2,5 @@
 Alexander Ho's portfolio for CS516 <br>
 Instructor: Bart Massey <br>
 Term: Fall 2024 <br>
+
+[Engineering Notebook](notebook.md)
